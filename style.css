@@ -48,6 +48,9 @@ header {
 section {
     padding: 100px 200px;
 }
+.button{
+    color: antiquewhite;
+}
 
 .main {
     width: 100%;
